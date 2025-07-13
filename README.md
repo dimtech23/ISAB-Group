@@ -222,8 +222,8 @@ This project is created for ISAB Group. Please ensure you have the right to use 
 ## 📞 Support
 
 For questions or support:
-- Email: info@isabgroup.com
-- Phone: (555) 123-4567
+- Email: groupisab@gmail.com
+- Phone: (608) 239-1627 / (608) 335-6752
 
 ## 🔄 Updates
 
