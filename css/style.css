@@ -203,7 +203,8 @@ p {
 /* Hero Section */
 .hero {
     padding: 120px 0 80px;
-    background: linear-gradient(135deg, var(--secondary-color) 0%, var(--white) 100%);
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
+    color: var(--white);
 }
 
 .hero-container {
@@ -219,16 +220,17 @@ p {
 .hero-title {
     font-size: 3rem;
     font-weight: 700;
-    color: var(--text-dark);
+    color: var(--white);
     margin-bottom: 1.5rem;
     line-height: 1.1;
 }
 
 .hero-subtitle {
     font-size: 1.2rem;
-    color: var(--text-light);
+    color: var(--white);
     margin-bottom: 2rem;
     line-height: 1.6;
+    opacity: 0.9;
 }
 
 .hero-cta {
